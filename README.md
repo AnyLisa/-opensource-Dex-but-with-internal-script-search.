@@ -21,7 +21,9 @@ loadstring(game:HttpGet("https://asedaskolannyheter.pythonanywhere.com/keyless_s
 
 # Tutorial
 Press this to switch to internal search:
+
 <img width="476" height="766" alt="image" src="https://github.com/user-attachments/assets/a285d547-f9d5-463e-846d-1d505eed9e21" />
 
 Press this to enter search settings:
+
 <img width="383" height="693" alt="image" src="https://github.com/user-attachments/assets/5925ebc3-472d-481c-b110-e15335f02384" />
