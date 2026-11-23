@@ -12,7 +12,7 @@ Switch between searching script contents and script names depending on what you'
 
 
 ```lua
-loadstring(game:HttpGet("[https://asedaskolannyheter.pythonanywhere.com/keyless_scripts/DexInternal.lua](https://raw.githubusercontent.com/AnyLisa/-opensource-Dex-but-with-internal-script-search./refs/heads/main/DeX-Explorer-main/out.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnyLisa/-opensource-Dex-but-with-internal-script-search./refs/heads/main/DeX-Explorer-main/out.lua"))()
 ```
 or
 ```lua
